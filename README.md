@@ -3,6 +3,6 @@ Remote repository for f24wb20carter server/web app. (Web Apps and Development As
 Link to Render Server https://f24wb20carter.onrender.com/
 
 #### class journal
-* color (string)
+* coverMaterial (string)
 * price (number)
 * pages (number)
